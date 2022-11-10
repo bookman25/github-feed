@@ -48,7 +48,7 @@
     "@types/react": "*",
     "@types/react-dom": "*",
     "coveralls": "^3.0.9",
-    "electron": "^7.1.7",
+    "electron": "^18.3.7",
     "electron-packager": "^14.1.1",
     "enzyme": "^3.3.0",
     "enzyme-adapter-react-16": "^1.1.1",
